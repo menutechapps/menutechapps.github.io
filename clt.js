@@ -1,5 +1,2 @@
-document.getElementById('linkclick').click();
+document.getElementById("txtcont").innerHTML="19";
 
-function abreLink() {
-         document.getElementById("txtcont").innerHTML="19";
-        }
